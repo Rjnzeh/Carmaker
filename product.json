@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes S63 AMG",
+        "price": 340000,
+        "image": "images/ex scl.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+    },
+
+    
+    {
+        "id": 2,
+        "name": "GLE 800 Brabus",
+        "price": 120000,
+        "image": "images/Gle.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+
+    
+    {
+        "id": 3,
+        "name": "SL 63 4matic",
+        "price": 300000,
+        "image": "images/gt.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+
+    
+    {
+        "id": 4,
+        "name": "Maybach S650",
+        "price": 150000,
+        "image": "images/s coup.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+
+    
+    {
+        "id": 5,
+        "name": "Aventador SVJ",
+        "price": 500000,
+        "image": "images/lamb.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    
+   
+    {
+        "id": 6,
+        "name": "Pegani Huraya",
+        "price": 1500000,
+        "image": "images/pegani.JPEG",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    } 
+]
